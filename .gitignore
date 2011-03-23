@@ -3,4 +3,6 @@ target
 *.ipr
 *.iml
 *.iws
+.DS_Store
+velocity.log
 
